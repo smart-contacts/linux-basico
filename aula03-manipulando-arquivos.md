@@ -1,15 +1,6 @@
----
-title: Curso de Linux - Aula 03 - Manipulando arquivos
-description: Curso básico de Linux (Módulo I) divido em uma série de posts
-date: 2020-05-26 19:34:07
-image: assets/img/linux.jpg
-category: Linux
-background: "#FF942A"
----
-
 ## Videoaula no Youtube
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/ECP0NSGec7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link do Vídeo no Youtube](https://youtu.be/ECP0NSGec7M)
 
 ## Comandos para manipulação de arquivos
 

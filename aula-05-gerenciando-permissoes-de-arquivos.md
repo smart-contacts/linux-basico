@@ -1,13 +1,6 @@
----
-title: Curso de Linux - Aula 05 - Gerenciando Permissões de Arquivos e Diretórios
-description: Curso básico de Linux (Módulo I) divido em uma série de posts
-date: 2020-06-05 17:00:05
-image: assets/img/linux.jpg
-category: Linux
-background: "#FF942A"
----
-
 ## Videoaula no Youtube
+
+[Link do Vídeo no Youtube](https://youtu.be/In_SFGwZdGY)
 
 ## Gerenciamento de Permissões de Arquivos e Diretórios
 

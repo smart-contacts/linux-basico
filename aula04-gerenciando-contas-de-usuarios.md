@@ -1,15 +1,6 @@
----
-title: Curso de Linux - Aula 04 - Gerenciando Contas de Usuários e Grupos
-description: Curso básico de Linux (Módulo I) divido em uma série de posts
-date: 2020-05-30 18:47:28
-image: assets/img/linux.jpg
-category: Linux
-background: "#FF942A"
----
-
 ## Videoaula no Youtube
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/rSKeRvrqWEE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link do Vídeo no Youtube](https://youtu.be/rSKeRvrqWEE)
 
 ## Comandos para gerenciamento de usuários e grupos
 

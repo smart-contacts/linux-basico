@@ -1,15 +1,6 @@
----
-title: Curso de Linux - Aula 02 - Manipulando diretórios
-description: Curso básico de Linux (Módulo I) divido em uma série de posts
-date: 2020-05-19 22:34:07
-image: assets/img/linux.jpg
-category: Linux
-background: "#FF942A"
----
-
 ## Videoaula no Youtube
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/HJl8Vj4aOzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link do Vídeo no Youtube](https://youtu.be/HJl8Vj4aOzA)
 
 ## Comandos para manipulação de diretórios
 

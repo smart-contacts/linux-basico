@@ -1,15 +1,6 @@
----
-title: Curso de Linux - Aula 01 - Visão Geral do Linux
-description: Curso básico de Linux (Módulo I) divido em uma série de posts
-date: 2020-05-18 15:04:47
-image: assets/img/linux.jpg
-category: Linux
-background: "#FF942A"
----
-
 ## Videoaula no Youtube
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/BiU0W38puqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[Link do Vídeo no Youtube](https://youtu.be/BiU0W38puqA)
 
 ## O GNU/Linux
 
