@@ -4,7 +4,7 @@
 
 ## O GNU/Linux
 
-![GNU/Linux](../src/images/tux.png)
+![GNU/Linux](https://smartcontacts.com.br/assets/img/tux.png)
 
 Linux é um termo popularmente empregado para se referir a sistemas operacionais que utilizam o Kernel Linux. O kernel (ou núcleo) foi desenvolvido pelo programador finlandês Linus Torvalds, inspirado no sistema Minix. O seu código fonte está disponível sob a licença GPL para que qualquer pessoa o possa utilizar, estudar, modificar e distribuir livremente de acordo com os termos da licença.
 
@@ -14,7 +14,7 @@ Se você deseja conhecer mais detalhes sobre as licenças, sobre software livre 
 
 ### Fontes de software do Linux
 
-![Estrutura básica](../src/images/shell.jpg)
+![Estrutura básica](https://smartcontacts.com.br/assets/img/shell.jpg)
 
 O Linux possui várias características que o diferenciam dos outros sistemas operacionais e que o aproximam do Unix, sendo um dos motivos da sua escolha em várias aplicações nas quais são necessárias estabilidade e segurança (vide as soluções de Cloud Computing dos principais players, praticamente todas implementadas sobre sistemas Linux).
 
@@ -46,7 +46,7 @@ O Linux oferece diversas vantagens para quem o utiliza, entre elas:
 
 O Linux, assim como qualquer outro sistema operacional, possui uma estrutura de diretórios padrão criada na instalação. Abaixo temos um esquema com uma representação da estrutura de diretórios do Linux.
 
-![Diretórios](../src/images/diretorios.jpg)
+![Diretórios](https://smartcontacts.com.br/assets/img/diretorios.jpg)
 
 #### /
 

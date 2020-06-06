@@ -34,13 +34,13 @@ Normalmente utilizamos a tabela abaixo para definirmos as permissões:
 
 1 - execução
 
-![Definições de permissões](../src/images/permissoes.png)
+![Definições de permissões](https://smartcontacts.com.br/assets/img/permissoes.png)
 
 #### Permissões Especiais:
 
 As permissões de arquivos e diretórios são gravadas de forma binária com 12 bits de tamanho.
 
-![Definições de permissões](../src/images/permissoes_especiais.png)
+![Definições de permissões](https://smartcontacts.com.br/assets/img/permissoes_especiais.png)
 
 As permissões especiais estão representadas pelos três primeiros bits, onde cada um desses três bits tem uma função específica. Veja abaixo:
 
