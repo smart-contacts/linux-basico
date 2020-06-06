@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://smartcontacts.com.br/">
+    <img alt="Smart Contacts" src="https://smartcontacts.com.br/assets/img/logo.png" width="200" />
+  </a>
+</p>
+<h2 align="center">
+Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
+</h2>
+
 ## Videoaula no Youtube
 
 [Link do Vídeo no Youtube](https://youtu.be/HJl8Vj4aOzA)
