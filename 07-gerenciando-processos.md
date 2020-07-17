@@ -7,13 +7,9 @@
 Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 </h2>
 
-## Videoaula no Youtube
+# Gerenciamento de Processos
 
-[Link do Vídeo no Youtube](https://youtu.be/In_SFGwZdGY)
-
-## Gerenciamento de Processos
-
-#### Introdução
+## Introdução
 
 Processo é um programa rodando no nosso sistema, também considerado um processo do kernel.
 
@@ -37,7 +33,7 @@ Enviroment - Cada processo tem suporte a uma lista de variáveis associados a va
 
 Current Working Directory - É um diretório default associado com cada processo.
 
-#### Tipos de Execução de comandos/programas
+## Tipos de Execução de comandos/programas
 
 Um programa pode ser executado de duas formas:
 
@@ -49,7 +45,7 @@ Para iniciar um programa em primeiro plano, basta digitar seu nome normalmente. 
 
 Os comandos podem ser executados em seqüência (um após o término do outro) se os separarmos com ```;``` (ponto e vírgula).
 
-##### ps
+### ps
 
 Comando usado para listar os programas/processos que estão sendo executados, ordenando-os pelo número de identificação do processo (PID). Exibe ainda qual usuário executou o programa, hora que o processo foi iniciado, etc.
 
@@ -65,7 +61,7 @@ Principais opções:
 
 **x** - Mostra os processos mesmo que estes não estejam associados a nenhum terminal.
 
-##### pstree
+### pstree
 
 O comando pstree mostra toda a árvore de processos desde o init até o último processo em execução. Muito útil para identificar a relação entre processo pai e filho.
 
@@ -83,7 +79,7 @@ Principais opções:
 
 **p** - Mostra o PID dos processos.
 
-##### top
+### top
 
 Mostra os programas em execução ativos, parados, tempo usado na CPU, detalhes sobre o uso da memória RAM, Swap, disponibilidade para execução de programas no sistema, etc.
 
@@ -111,7 +107,7 @@ espaço - Atualiza imediatamente a tela.
 
 **q** - Sai do programa.
 
-##### kill
+### kill
 
 Permite enviar um sinal a um comando/programa. Caso seja usado sem parâmetros, o kill enviará um sinal de término ao processo sendo executado.
 
@@ -136,12 +132,12 @@ KILL (9) - Terminar/Destruir – o processo é interrompido imediatamente. Deve 
 TERM (15) - Sinal enviado por padrão caso não seja enviado nenhum outro. Termina o processo imediatamente, entretanto dá oportunidade para ele fechar todos os arquivos abertos e eliminar arquivos temporários.
 
 
-### Chegamos ao fim deste post
+## Chegamos ao fim deste post
 
 Se você tiver algo mais que possa agregar ao exposto, deixe seu comentário, será muito bem vindo!
 
 
-### Links úteis:
+## Links úteis:
 
 [Canal no YouTube](https://www.youtube.com/channel/UCC6ue986efLUHRuqGiIfuwQ/featured?view_as=public)
 
